@@ -1,9 +1,6 @@
 /*jslint evil: true, browser: true, immed: true, passfail: true, undef: true, newcap: true*/
 /*global JSON, XMLHttpRequest, window, escape, unescape, ActiveXObject */
 //
-// easyXDM
-// http://easyxdm.net/
-// Copyright(c) 2009-2011, Øyvind Sean Kinsey, oyvind@kinsey.no.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal

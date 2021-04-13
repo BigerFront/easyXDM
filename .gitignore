@@ -9,3 +9,4 @@ src/.*
 build.secret.properties
 src/tests/easyXDM.debug.js
 .idea
+.vscode
